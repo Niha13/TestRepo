@@ -1,0 +1,9 @@
+<!DOCTYPE>
+<html>
+<head>
+	<tittle></tittle>
+</head>
+<body>
+     Qwerty...
+</body>
+</html>
